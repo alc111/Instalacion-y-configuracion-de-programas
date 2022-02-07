@@ -1,4 +1,4 @@
-#INSTALACIÓN DE LOLCAT
+# INSTALACIÓN DE LOLCAT
 En primer lugar instalamos Ruby y comprobamos que lo hemos instalado:
 ```
 sudo apt-get install ruby

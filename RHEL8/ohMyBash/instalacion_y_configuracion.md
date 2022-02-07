@@ -1,4 +1,4 @@
-#INSTALACIÓN Y CONFIGURACIÓN DE OHMYBASH
+# INSTALACIÓN Y CONFIGURACIÓN DE OHMYBASH
 La instalación es sumamente sencilla:
 ```
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
