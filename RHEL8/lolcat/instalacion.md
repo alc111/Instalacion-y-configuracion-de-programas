@@ -14,3 +14,13 @@ Por último, nos metemos en la carpeta recién obtenida tras decomprimir , nos d
 cd lolcat-master/bin
 sudo gem install lolcat
 ```
+Para utilizarlo, ponemos un comando que imprima por terminal y le añadimos '| lolcat':
+```
+comando | lolcat
+```
+En mi caso, añadiré un neofetch con lolcat a mi archivo de bashrc para que salga cada vez que abra la terminal:
+```
+sudo micro .bashrc
+#añadimos la siguiente línea al archivo
+neofetch | lolcat
+```
