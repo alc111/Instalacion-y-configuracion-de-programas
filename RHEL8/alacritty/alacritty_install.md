@@ -1,4 +1,4 @@
-# INSTALACION DE ALACRITTY
+# Instalación de Alacritty
 ## Clonar el repositorio de Alacritty
 En primer lugar clonamos el repositorio de alacritty y nos metemos en el:
 ```
