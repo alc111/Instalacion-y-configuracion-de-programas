@@ -1,7 +1,7 @@
 # INSTALACIÓN DE LOLCAT
 En primer lugar instalamos Ruby y comprobamos que lo hemos instalado:
 ```
-sudo apt-get install ruby
+sudo dnf install ruby
 ruby --version
 ```
 Tras esto, descargamos el repositorio oficial de lolcat y descomprimimos el zip:
