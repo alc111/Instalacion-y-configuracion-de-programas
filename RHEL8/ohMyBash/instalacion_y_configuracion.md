@@ -7,7 +7,7 @@ Si deseamos ponerle temas o personalizar la terminal, nos dirigimos al archivo b
 ```
 OSH_THEME="font"
 ```
-Cabe señalar que para el correcto funcionamiento del tema podría ser necesario instalar fuentes adicionales. En mi caso voy a ponerme el tema powerline-multiline, para el que necesitaré las powerline-fonts, coya instalación se llevaría a cabo de la siguiente manera:
+Cabe señalar que para el correcto funcionamiento del tema podría ser necesario instalar fuentes adicionales. En mi caso voy a ponerme el tema powerline-multiline, para el que necesitaré las powerline-fonts, cuya instalación se llevaría a cabo de la siguiente manera:
 ```
 sudo dnf install powerline-fonts
 ```
