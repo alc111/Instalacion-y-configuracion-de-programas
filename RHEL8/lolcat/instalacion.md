@@ -24,3 +24,9 @@ sudo micro .bashrc
 #añadimos la siguiente línea al archivo
 neofetch | lolcat
 ```
+Si el neofetch va relativamente lento y se desea acelerarlo, basta con editar el código de neofetch comentando la línea en la que pone "rpm":
+```
+sudo micro /usr/bin/neofetch
+#Comentamos la siguiente línea
+has "rpm" && tot rpm -qa
+```
